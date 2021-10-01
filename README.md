@@ -12,6 +12,9 @@ From the summary of linear regression model above, the variables *vehicle_length
  - *vehicle_length* and *vehicle_weight* always have positive correlation. So they are not independent each other. It is necessary to consider the correlation between these two variables.
 ## Summary Statistics on Suspension Coils
 ![t.test_overall](https://github.com/cffhr99/Module15-Challenge/blob/main/images/T_test1.png?raw=true)  
-![t.test_lot1](https://github.com/cffhr99/Module15-Challenge/blob/main/images/T_test2.png?raw=true)  
-![t.test_lot2](https://github.com/cffhr99/Module15-Challenge/blob/main/images/T_test3.png?raw=true)  
+### T.test on Lot 1
+![t.test_lot1](https://github.com/cffhr99/Module15-Challenge/blob/main/images/T_test2.png?raw=true) 
+### T.test on Lot 2
+![t.test_lot2](https://github.com/cffhr99/Module15-Challenge/blob/main/images/T_test3.png?raw=true) 
+### T.test on Lot 3
 ![t.test_lot3](https://github.com/cffhr99/Module15-Challenge/blob/main/images/T_test4.png?raw=true)  
