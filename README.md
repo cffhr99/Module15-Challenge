@@ -7,6 +7,7 @@
  - Design a statistical study to compare vehicle performance of the MechaCar vehicles against vehicles from other manufacturers. For each statistical analysis, you’ll write a summary interpretation of the findings.
 ## Linear Regression to Predict MPG
 ![linear_regression](https://github.com/cffhr99/Module15-Challenge/blob/main/images/linear.png?raw=true)  
+From the summary of linear regression model above, the variables *vehicle_length*,*ground_clearance* and *vehicle_weight* are statistically significant since there *p-values* are under the confident level 0.05.
 ## Summary Statistics on Suspension Coils
 ![t.test_overall](https://github.com/cffhr99/Module15-Challenge/blob/main/images/T_test1.png?raw=true)  
 ![t.test_lot1](https://github.com/cffhr99/Module15-Challenge/blob/main/images/T_test2.png?raw=true)  
